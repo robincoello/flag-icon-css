@@ -1,50 +1,33 @@
 # flag-icon-css Version Ecuador
 
-https://www.normalizacion.gob.ec/
 
-
-
-```
-
-<span class="flag-icon flag-icon-ec"></span>
-
-```
-
-
-Los códigos se basan en https://es.wikipedia.org/wiki/ISO_3166-2:EC
-
-```
-
-Código 	Nombre de las provincias
-EC-A 	Provincia de Azuay
-EC-B 	Provincia de Bolívar
-EC-F 	Provincia de Cañar
-EC-C 	Provincia de Carchi
-EC-H 	Provincia de Chimborazo
-EC-X 	Provincia de Cotopaxi
-EC-O 	Provincia de El Oro
-EC-E 	Provincia de Esmeraldas
-EC-W 	Provincia de Galápagos
-EC-G 	Provincia de Guayas
-EC-I 	Provincia de Imbabura
-EC-L 	Provincia de Loja
-EC-R 	Provincia de Los Ríos
-EC-M 	Provincia de Manabí
-EC-S 	Provincia de Morona Santiago
-EC-N 	Provincia de Napo
-EC-D 	Provincia de Orellana
-EC-Y 	Provincia de Pastaza
-EC-P 	Provincia de Pichincha
-EC-SE 	Provincia de Santa Elena
-EC-SD 	Provincia de Santo Domingo de los Tsáchilas
-EC-U 	Provincia de Sucumbíos
-EC-T 	Provincia de Tungurahua
-EC-Z 	Provincia de Zamora Chinchipe
+```html
+<span class="flag-icon flag-icon-ec-azuay"></span>
+<span class="flag-icon flag-icon-ec-bolivar"></span>
+<span class="flag-icon flag-icon-ec-canar"></span>
+<span class="flag-icon flag-icon-ec-carchi"></span>
+<span class="flag-icon flag-icon-ec-chimborazo"></span>
+<span class="flag-icon flag-icon-ec-cotopaxi"></span>
+<span class="flag-icon flag-icon-ec-el-oro"></span>
+<span class="flag-icon flag-icon-ec-esmeraldas"></span>
+<span class="flag-icon flag-icon-ec-galapagos"></span>
+<span class="flag-icon flag-icon-ec-guayas"></span>
+<span class="flag-icon flag-icon-ec-imbabura"></span>
+<span class="flag-icon flag-icon-ec-loja"></span>
+<span class="flag-icon flag-icon-ec-los-rios"></span>
+<span class="flag-icon flag-icon-ec-manabi"></span>
+<span class="flag-icon flag-icon-ec-morona-santiago"></span>
+<span class="flag-icon flag-icon-ec-napo"></span>
+<span class="flag-icon flag-icon-ec-orellana"></span>
+<span class="flag-icon flag-icon-ec-pastaza"></span>
+<span class="flag-icon flag-icon-ec-pichincha"></span>
+<span class="flag-icon flag-icon-ec-santa-elena"></span>
+<span class="flag-icon flag-icon-ec-santo-domingo-de-los-tsachilas"></span>
+<span class="flag-icon flag-icon-ec-sucumbios"></span>
+<span class="flag-icon flag-icon-ec-tungurahua"></span>
+<span class="flag-icon flag-icon-ec-zamora-chinchipe"></span>
 
 ```
-
-
-
 
 
 
