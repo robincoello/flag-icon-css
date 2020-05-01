@@ -1,7 +1,22 @@
 # flag-icon-css Version Ecuador
 
 
+> una coleccion de banderas de las provincias del Ecuador en SVG — para una integración facil via css.
+> [demo](https://flagicons.lipis.dev).
+
+## Instar
+
+Puedes cargar la última versión aca [download](https://github.com/robincoello/flag-icon-css/archive/master.zip)
+
+## Uso
+
+For using the flags inline with text add the classes `.flag-icon` and
+`.flag-icon-ec-xx` (where `xx` is the province name) to an empty `<span>`. If you want to have a squared version flag
+then add the class `flag-icon-squared` as well. Example:
+
+
 ```html
+<span class="flag-icon flag-icon-ec"></span>
 <span class="flag-icon flag-icon-ec-azuay"></span>
 <span class="flag-icon flag-icon-ec-bolivar"></span>
 <span class="flag-icon flag-icon-ec-canar"></span>
@@ -27,34 +42,6 @@
 <span class="flag-icon flag-icon-ec-tungurahua"></span>
 <span class="flag-icon flag-icon-ec-zamora-chinchipe"></span>
 
-```
-
-
-
-> A collection of all country flags in SVG — plus the CSS for easier integration.
-> See the [demo](https://flagicons.lipis.dev).
-
-## Install
-
-You can either [download](https://github.com/lipis/flag-icon-css/archive/master.zip)
-the whole project as is or install it via Bower or NPM:
-
-```bash
-$ bower install flag-icon-css
-$ npm install flag-icon-css
-```
-
-## Usage
-
-For using the flags inline with text add the classes `.flag-icon` and
-`.flag-icon-xx` (where `xx` is the
-[ISO 3166-1-alpha-2 code](https://www.iso.org/obp/ui/#search/code/)
-of a country) to an empty `<span>`. If you want to have a squared version flag
-then add the class `flag-icon-squared` as well. Example:
-
-```html
-<span class="flag-icon flag-icon-gr"></span>
-<span class="flag-icon flag-icon-gr flag-icon-squared"></span>
 ```
 
 You could also apply this to any element, but in that case you'll have to use the
